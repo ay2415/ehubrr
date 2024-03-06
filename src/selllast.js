@@ -1226,4 +1226,4 @@ import Footer from "./components/footer";
         </>
      )
  };
- export default SellLast();
+ export default SellLast;
