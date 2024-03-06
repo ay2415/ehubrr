@@ -12,11 +12,11 @@ function App() {
     <><div>
 
       <Header/>
-      
+      <HomePage/>
       <Footer/>
       </div>
     </>
   );
-};
+}
 
 export default App;

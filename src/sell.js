@@ -2,14 +2,15 @@ import React from "react";
 import { Route } from "react-router-dom";
 import Header from "./components/header";
 import Footer from "./components/footer";
-export const Sellpage=()=>{
-    return(
+function Sellpage(){
+
+
+  return (
     <>
-   
       <div
         className="rui-jIycK rui-3EzFm rui-Iumkr rui-jym4N rui-VAm0G rui-JYJBp rui-kEGLi rui-odoOW"
         style={{
-          cssFloat: "left",
+          // cssFloat: "left",
           minHeight: "1px",
           boxSizing: "border-box",
           width: "66.6667%",
@@ -904,8 +905,8 @@ export const Sellpage=()=>{
         </div>
         
       </div>
-
     </>
-    );
-};
+  );
+}
+
 export default Sellpage;
