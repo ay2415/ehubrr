@@ -1,0 +1,256 @@
+[
+    {
+      "product": {
+        "name": "PI-CAM",
+        "type": "Accessories",
+        "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+        "description": "The description of the PI-CAM product",
+        "price": 159,
+        "discount": "SALE",
+        "ratings": 4.5,
+        "reviews": 120,
+        "availability": true,
+        "attributes": {
+          "color": "Red",
+          "material": "Plastic",
+          "weight": "100 grams"
+        },
+        "seller": {
+          "name": "XYZ Electronics",
+          "rating": 4.8,
+          "location": "Hyderabad, India"
+        }
+      }
+    },
+    {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+      {
+        "product": {
+          "name": "PI-CAM",
+          "type": "Accessories",
+          "image": "https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309",
+          "description": "The description of the PI-CAM product",
+          "price": 159,
+          "discount": "SALE",
+          "ratings": 4.5,
+          "reviews": 120,
+          "availability": true,
+          "attributes": {
+            "color": "Red",
+            "material": "Plastic",
+            "weight": "100 grams"
+          },
+          "seller": {
+            "name": "XYZ Electronics",
+            "rating": 4.8,
+            "location": "Hyderabad, India"
+          }
+        }
+      },
+    {
+      "product": {
+        "name": "Raspberry Pi",
+        "type": "Accessories",
+        "image": "https://png.pngtree.com/png-clipart/20220616/original/pngtree-raspberry-pi-3-model-b-png-image_8090946.png",
+        "description": "The description of the Raspberry Pi product",
+        "price": 159,
+        "discount": "SALE",
+        "ratings": 4.5,
+        "reviews": 120,
+        "availability": true,
+        "attributes": {
+          "color": "Red",
+          "material": "Plastic",
+          "weight": "100 grams"
+        },
+        "seller": {
+          "name": "XYZ Electronics",
+          "rating": 4.8,
+          "location": "Hyderabad, India"
+        }
+      }
+    }
+  ]
+  

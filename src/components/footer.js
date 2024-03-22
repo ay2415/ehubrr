@@ -5,15 +5,14 @@ const Footer=()=> {
     <>
       <div
         className="footer-top"
-        style={{ boxSizing: "border-box", padding: "100px 0px" }}
       >
         <div
-          className="container"
+          className="container footer"
           style={{
             boxSizing: "border-box",
             width: "100%",
             paddingRight: "15px",
-            paddingLeft: "15px",
+            paddingLeft: "200px",
             marginRight: "auto",
             marginLeft: "auto",
             maxWidth: "100%",

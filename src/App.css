@@ -1,6 +1,27 @@
+.ever{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+
 .footer-top{
   background-color: #f2f8fd;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+   padding: 100px 0px;
 }
+
+
 .header-top{
   background-color: black;
 }
@@ -5524,3 +5545,175 @@
         font-family: Poppins, sans-serif;
     }
 
+
+    .style-00 {
+      position: relative;
+      border-width: 1.6px;
+      background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+      border-color: rgb(225, 225, 225);
+      border-style: solid;
+      border-radius: 13px;
+      padding: 5px;
+      margin-bottom: 0px;
+      transition: all 0.3s ease 0s;
+      z-index: 1;
+      box-sizing: border-box;
+  }
+
+  .style-01 {
+      position: absolute;
+      top: 15px;
+      left: 15px;
+      z-index: 110;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+      transition: all 0.3s ease 0s;
+      box-sizing: border-box;
+  }
+
+  .style-02 {
+      background: rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box;
+      font-size: 14px;
+      line-height: 24.5px;
+      display: block;
+      padding: 0px 12px;
+      text-align: center;
+      text-transform: uppercase;
+      border-radius: 5px;
+      color: rgb(255, 255, 255);
+      font-weight: 600;
+      box-sizing: border-box;
+  }
+
+  .style-03 {
+      background-color: rgb(0, 0, 0);
+      margin-top: 12px;
+      font-size: 14px;
+      line-height: 24.5px;
+      display: block;
+      padding: 0px 12px;
+      text-align: center;
+      text-transform: uppercase;
+      border-radius: 5px;
+      color: rgb(255, 255, 255);
+      font-weight: 600;
+      box-sizing: border-box;
+  }
+
+  .style-04 {
+      position: relative;
+      overflow: hidden;
+      box-sizing: border-box;
+  }
+
+  .style-05 {
+      position: relative;
+      display: block;
+      overflow: hidden;
+      transition: all 0.3s ease 0s;
+      text-decoration: none solid rgb(30, 63, 110);
+      background-color: rgba(0, 0, 0, 0);
+      border: 0px none rgb(30, 63, 110);
+      box-sizing: border-box;
+      color: rgb(30, 63, 110);
+  }
+
+  .style-06 {
+      z-index: 1;
+      max-width: 100%;
+      transition: all 0.3s ease 0s;
+      width: 100%;
+      box-sizing: border-box;
+      vertical-align: middle;
+  }
+
+  .style-07 {
+      position: absolute;
+      z-index: 2;
+      top: 0px;
+      left: 0px;
+      opacity: 0.248916;
+      max-width: 100%;
+      transition: all 0.3s ease 0s;
+      width: 100%;
+      box-sizing: border-box;
+      vertical-align: middle;
+  }
+
+  .style-08 {
+      position: relative;
+      z-index: 10;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+      transition: all 0.3s ease 0s;
+      -webkit-box-align: center;
+      align-items: center;
+      line-height: 15.2559px;
+      background-color: rgb(255, 255, 255);
+      padding: 0px 0px 30px;
+      box-sizing: border-box;
+  }
+
+  .style-09 {
+      box-sizing: border-box;
+  }
+
+  .style-0010 {
+      font-size: 14px;
+      color: rgb(102, 102, 102);
+      font-weight: 500;
+      transition: all 0.3s ease 0s;
+      text-decoration: none solid rgb(102, 102, 102);
+      background-color: rgba(0, 0, 0, 0);
+      border: 0px none rgb(102, 102, 102);
+      box-sizing: border-box;
+  }
+
+  .style-0011 {
+      font-size: 16px;
+      margin: 10px 0px 15px;
+      font-family: Poppins, sans-serif;
+      color: rgb(0, 0, 0);
+      box-sizing: border-box;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      font-weight: 500;
+      line-height: 19.2px;
+  }
+
+  .style-0012 {
+      text-decoration: none solid rgb(70, 70, 70);
+      color: rgb(70, 70, 70);
+      font-size: 16px;
+      font-weight: 600;
+      transition: all 0.3s ease 0s;
+      background-color: rgba(0, 0, 0, 0);
+      border: 0px none rgb(70, 70, 70);
+      box-sizing: border-box;
+  }
+
+  .style-0013 {
+      font-size: 18px;
+      font-family: Poppins, sans-serif;
+      line-height: 18px;
+      font-weight: 500;
+      color: rgb(102, 102, 102);
+      box-sizing: border-box;
+  }
+
+  .style-0014 {
+      margin-right: 15px;
+      font-weight: 300;
+      text-decoration: line-through solid rgb(102, 102, 102);
+      position: relative;
+      box-sizing: border-box;
+  }
+
+  .style-0015 {
+      font-weight: 500;
+      box-sizing: border-box;
+  }
