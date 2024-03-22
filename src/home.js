@@ -282,1125 +282,588 @@ return(
     </li>
   </ul>
 </div>
-<div className="style0">
-  <div className="style1">
-    {/* Section Title & Tab Start */}
-    <div className="style2">
-      <div className="style3">
-        {/* Tab Start */}
-        {/**/}
-        <ul className="product-tab-nav nav justify-content-start align-items-center">
-          <li className="nav-item">
-            
-             
-          </li>
-        </ul>
-      </div>{" "}
-      
-      {/* Tab End */}
+<div style={{paddingBottom: '100px', boxSizing: 'border-box'}}>
+    <div style={{maxWidth: '1200px', width: '100%', paddingRight: '15px', paddingLeft: '15px', marginRight: 'auto', marginLeft: 'auto', boxSizing: 'border-box', bsGutterX: '1.5rem', bsGutterY: 0}}>
+        {/* Section Title & Tab Start */}
+        <div style={{bsGutterX: '30px', boxSizing: 'border-box', bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+            <div style={{boxSizing: 'border-box', flex: '0 0 auto', width: '100%', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                {/* Tab Start */}
+                {/**/}
+                <ul className="product-tab-nav nav justify-content-start align-items-center">
+                    <li className="nav-item"><button className="nav-link" databs-toggle="tab" databs-target="#newarrivals">Featured</button> </li>
+                </ul>
+            </div>
+            {/* Tab End */}
+        </div>
+    </div> {/* Section Title & Tab End */}
+    <div style={{bsGutterX: '30px', boxSizing: 'border-box', bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+        <div style={{boxSizing: 'border-box', flex: '1 0 0%', flexShrink: 0, width: '100%', maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+            <div style={{paddingTop: '60px', boxSizing: 'border-box'}}>
+                {/* 1st tab start */}
+                <div style={{height: 'auto', visibility: 'visible', opacity: 1, overflow: 'visible', display: 'block', maxWidth: '100%', boxSizing: 'border-box', transition: 'opacity 0.15s linear 0s'}}>
+                    <div style={{marginBottom: '-30px', bsGutterX: '30px', boxSizing: 'border-box', bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* 1 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="PCAM.html" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Digilent PCAM
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>₹ 250</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* 2 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-10%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="raspberry.html" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://png.pngtree.com/png-clipart/20220616/original/pngtree-raspberry-pi-3-model-b-png-image_8090946.png" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://png.pngtree.com/png-clipart/20220616/original/pngtree-raspberry-pi-3-model-b-png-image_8090946.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="raspberry.html" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Raspberry
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>₹ 3500</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 2400</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* 3 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="soldering.html" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://cdn.pixabay.com/photo/2020/05/01/14/52/soldering-5117508_960_720.png" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://cdn.pixabay.com/photo/2020/05/01/14/52/soldering-5117508_960_720.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="soldering.html" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Soldering
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 1200</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/*4  Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://www.electroncomponents.com/image/cache/catalog/MISC/solder/soldering_wire-500x500.png" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://www.electroncomponents.com/image/cache/catalog/MISC/solder/soldering_wire-500x500.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Soldering Wire
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 100</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/*5 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://www.pngmart.com/files/6/Electric-Motor-PNG-Photos.png" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://www.pngmart.com/files/6/Electric-Motor-PNG-Photos.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Electric Motor
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 250</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/*6 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-8%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://lipolybatteries.com/wp-content/uploads/2018/10/lipoly-battery-3-7v-lithium-polymer-batteries.png" height="274" width="270" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://lipolybatteries.com/wp-content/uploads/2018/10/lipoly-battery-3-7v-lithium-polymer-batteries.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Li poly Battery
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}> ₹ 120</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 83</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/*7 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arduino-uno-perspective-transparent.png/1200px-Arduino-uno-perspective-transparent.png" height="274" width="270" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arduino-uno-perspective-transparent.png/1200px-Arduino-uno-perspective-transparent.png" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Arduino
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 1800</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/*8 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-5%</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://ci6.googleusercontent.com/proxy/sqt79k5ozNV-G6pdk3wf-CaoJvyz02KdlqEU4c2Jwz2PEOtATZV469HpC2ZzHS4wgxqsEJ4drXyGd9EL5ZgIuYBdnxN9ifM091DeMyPAlQeQx1vtp5aVQES_HZ5ruhN1S0NVeR3U2l0LJNRcwNJbXF3lEFn0W56t=s0-d-e1-ft#https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/2/n/2n3904.jpg" width="270" height="274" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://ci6.googleusercontent.com/proxy/sqt79k5ozNV-G6pdk3wf-CaoJvyz02KdlqEU4c2Jwz2PEOtATZV469HpC2ZzHS4wgxqsEJ4drXyGd9EL5ZgIuYBdnxN9ifM091DeMyPAlQeQx1vtp5aVQES_HZ5ruhN1S0NVeR3U2l0LJNRcwNJbXF3lEFn0W56t=s0-d-e1-ft#https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/2/n/2n3904.jpg" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Transistor
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}> ₹ 70</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 55 </span> </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> {/* 1st tab end */}
+                {/* 2nd tab start */}
+                <div style={{display: 'block', overflow: 'hidden', height: '0px', visibility: 'hidden', maxWidth: '100%', opacity: 0, boxSizing: 'border-box', transition: 'opacity 0.15s linear 0s'}}>
+                    <div style={{bsGutterX: '30px', boxSizing: 'border-box', bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* 1 Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309" height="274" width="270" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Modern Smart Phone
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '377.6px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-10%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/2.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/2.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Bluetooth Headphone
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$48.50</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/3.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/3.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Music Box
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/4.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/1.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Air Pods 25Hjkl Black
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/5.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/5.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Hand Watch
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-8%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/6.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/6.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Table Camera
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$138.50</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$112.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/7.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/1.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Round Pocket Router
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-5%</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/8.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/8.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Power Bank 10000Mhp
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$260.00</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$238.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> {/* 2nd tab end */}
+                {/* 3rd tab start */}
+                <div style={{display: 'block', overflow: 'hidden', height: '0px', visibility: 'hidden', maxWidth: '100%', opacity: 0, boxSizing: 'border-box', transition: 'opacity 0.15s linear 0s'}}>
+                    <div style={{bsGutterX: '30px', boxSizing: 'border-box', bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/1.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/1.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Modern Smart Phone
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-10%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/2.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/2.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Bluetooth Headphone
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$48.50</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/3.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/3.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Music Box
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>New</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/4.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/1.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Air Pods 25Hjkl Black
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/5.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/5.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Hand Watch
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-8%</span> <span style={{backgroundColor: 'rgb(0, 0, 0)', marginTop: '12px', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/6.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/6.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Smart Table Camera
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$138.50</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$112.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{backgroundColor: 'rgb(0, 0, 0)', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>Sale</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/7.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/1.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Round Pocket Router
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$38.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style={{flex: '0 0 auto', width: '25%', marginBottom: '30px', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                            {/* Single Prodect */}
+                            <div style={{position: 'relative', borderWidth: '1.6px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderColor: 'rgb(225, 225, 225)', borderStyle: 'solid', borderRadius: '13px', padding: '5px', marginBottom: '0px', transition: 'all 0.3s ease 0s', zIndex: 0, boxSizing: 'border-box'}}>
+                                <span style={{position: 'absolute', top: '15px', left: '15px', zIndex: 1, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', boxSizing: 'border-box'}}>
+                                    <span style={{background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', fontSize: '14px', lineHeight: '24.5px', display: 'block', padding: '0px 12px', textAlign: 'center', textTransform: 'uppercase', borderRadius: '5px', color: 'rgb(255, 255, 255)', fontWeight: 600, boxSizing: 'border-box'}}>-5%</span> </span>
+                                <div style={{position: 'relative', overflow: 'hidden', boxSizing: 'border-box'}}>
+                                    <a href="/single-product" style={{position: 'relative', display: 'block', overflow: 'hidden', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(58, 58, 58)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(58, 58, 58)', boxSizing: 'border-box', color: 'rgb(58, 58, 58)'}}>
+                                        <img src="assets/images/product-image/8.webp" alt="Product" style={{zIndex: 1, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <img src="assets/images/product-image/8.webp" alt="Product" style={{position: 'absolute', zIndex: 2, top: '0px', left: '0px', opacity: 0, maxWidth: '100%', transition: 'all 0.3s ease 0s', width: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> </a>
+                                </div>
+                                <div style={{position: 'relative', zIndex: 10, display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', transition: 'all 0.3s ease 0s', WebkitBoxAlign: 'center', alignItems: 'center', lineHeight: '16px', backgroundColor: 'rgb(255, 255, 255)', padding: '0px 0px 30px', boxSizing: 'border-box'}}>
+                                    <span style={{boxSizing: 'border-box'}}><a href="#" style={{fontSize: '14px', color: 'rgb(102, 102, 102)', fontWeight: 500, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(102, 102, 102)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(102, 102, 102)', boxSizing: 'border-box'}}>Accessories</a></span>
+                                    <h5 style={{fontSize: '16px', margin: '10px 0px 15px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '10px', marginBottom: '15px', fontWeight: 500, lineHeight: '19.2px'}}><a href="/single-product" style={{textDecoration: 'none solid rgb(0, 0, 0)', color: 'rgb(0, 0, 0)', fontSize: '16px', fontWeight: 600, transition: 'all 0.3s ease 0s', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Power Bank 10000Mhp
+                                        </a> </h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', lineHeight: '18px', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                        <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}>$260.00</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}>$238.50</span> </span>
+                                </div>
+                                <div style={{position: 'absolute', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', opacity: 0, visibility: 'hidden', transition: 'all 0.3s ease 0s', top: '136.812px', left: '133.4px', transform: 'matrix(1, 0, 0, 1, -135.9, 0)', WebkitBoxPack: 'center', justifyContent: 'center', height: '60px', background: 'rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box', borderRight: '1.6px solid rgb(225, 225, 225)', borderBottom: '1.6px solid rgb(225, 225, 225)', borderLeft: '1.6px solid rgb(225, 225, 225)', borderImage: 'none', borderTop: '0px none rgb(58, 58, 58)', zIndex: 11, borderRadius: '0px 0px 13px 13px', width: 'calc(100% + 5px)', boxSizing: 'border-box'}}>
+                                    <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{display: 'flex', WebkitBoxAlign: 'center', alignItems: 'center', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', width: '40px', height: '40px', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(255, 255, 255)', color: 'rgb(255, 255, 255)', borderRadius: '5px', backgroundColor: 'rgb(112, 112, 112)', fontSize: '24px', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> {/* 3rd tab end */}
+            </div>
+        </div>
     </div>
-  </div>{" "}
-  {/* Section Title & Tab End */}
-  <div className="style4">
-    <div className="style5">
-      <div className="style6">
-        {/* 1st tab start */}
-        <div className="style7">
-          <div className="style8">
-            <div className="style-9">
-              {/* 1 Single Prodect */}
-              <div className="style57">
-                <span className="style58">
-                  <span className="style59">New</span>{" "}
-                </span>
-                <div className="style60">
-                  <a className="style61" href="/single-product">
-                    <img
-                      src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style62"
-                    />{" "}
-                    <img
-                      className="style63"
-                      src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style64">
-                  <span className="style65">
-                    <a href="#" className="style66">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style67">
-                    <a href="PCAM.html" className="style68">
-                      Digilent PCAM
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style69">
-                    <span className="style70">₹ 250</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style24">
-              {/* 2 Single Prodect */}
-              <div className="style25">
-                <span className="style26">
-                  <span className="style27">-10%</span>{" "}
-                  <span className="style28">New</span>{" "}
-                </span>
-                <div className="style29">
-                  <a href="raspberry.html" className="style30">
-                    <img
-                      src="https://png.pngtree.com/png-clipart/20220616/original/pngtree-raspberry-pi-3-model-b-png-image_8090946.png"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style31"
-                    />{" "}
-                    <img
-                      className="style32"
-                      src="https://png.pngtree.com/png-clipart/20220616/original/pngtree-raspberry-pi-3-model-b-png-image_8090946.png"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style33">
-                  <span className="style34">
-                    <a href="#" className="style35">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style36">
-                    <a href="raspberry.html" className="style37">
-                      Raspberry
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style38">
-                    <span className="style39">₹ 3500</span>{" "}
-                    <span className="style40"> ₹ 2400</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style41">
-              {/* 3 Single Prodect */}
-              <div className="style42">
-                <span className="style43">
-                  <span className="style44">Sale</span>{" "}
-                </span>
-                <div className="style45">
-                  <a href="soldering.html" className="style46">
-                    <img
-                      src="https://cdn.pixabay.com/photo/2020/05/01/14/52/soldering-5117508_960_720.png"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style47"
-                    />{" "}
-                    <img
-                      className="style48"
-                      src="https://cdn.pixabay.com/photo/2020/05/01/14/52/soldering-5117508_960_720.png"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style49">
-                  <span className="style50">
-                    <a href="#" className="style51">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style52">
-                    <a href="soldering.html" className="style53">
-                      Soldering
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style54">
-                    <span className="style55"> ₹ 1200</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style56">
-              {/*4  Single Prodect */}
-              <div className="style57">
-                <span className="style58">
-                  <span className="style59">New</span>{" "}
-                </span>
-                <div className="style60">
-                  <a className="style61" href="/single-product">
-                    <img
-                      src="https://www.electroncomponents.com/image/cache/catalog/MISC/solder/soldering_wire-500x500.png"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style62"
-                    />{" "}
-                    <img
-                      className="style63"
-                      src="https://www.electroncomponents.com/image/cache/catalog/MISC/solder/soldering_wire-500x500.png"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style64">
-                  <span className="style65">
-                    <a href="#" className="style66">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style67">
-                    <a href="/single-product" className="style68">
-                      Soldering Wire
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style69">
-                    <span className="style70"> ₹ 100</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style71">
-              {/*5 Single Prodect */}
-              <div className="style72">
-                <span className="style73"></span>
-                <div className="style74">
-                  <a className="style75" href="/single-product">
-                    <img
-                      src="https://www.pngmart.com/files/6/Electric-Motor-PNG-Photos.png"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style76"
-                    />{" "}
-                    <img
-                      className="style77"
-                      src="https://www.pngmart.com/files/6/Electric-Motor-PNG-Photos.png"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style78">
-                  <span className="style79">
-                    <a href="#" className="style80">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style81">
-                    <a href="/single-product" className="style82">
-                      Electric Motor
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style83">
-                    <span className="style84"> ₹ 250</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style85">
-              {/*6 Single Prodect */}
-              <div className="style86">
-                <span className="style87">
-                  <span className="style88">-8%</span>{" "}
-                  <span className="style89">Sale</span>{" "}
-                </span>
-                <div className="style-90">
-                  <a className="style-91" href="/single-product">
-                    <img
-                      src="https://lipolybatteries.com/wp-content/uploads/2018/10/lipoly-battery-3-7v-lithium-polymer-batteries.png"
-                      height={274}
-                      width={270}
-                      alt="Product"
-                      className="style-92"
-                    />{" "}
-                    {/* <img
-                      className="style-93"
-                      src="https://lipolybatteries.com/wp-content/uploads/2018/10/lipoly-battery-3-7v-lithium-polymer-batteries.png"
-                      alt="Product"
-                    />{" "} */}
-                  </a>
-                </div>
-                <div className="style-94">
-                  <span className="style-95">
-                    <a href="#" className="style-96">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style-97">
-                    <a href="/single-product" className="style-98">
-                      Li poly Battery
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style-99">
-                    <span className="style100"> ₹ 120</span>{" "}
-                    <span className="style101"> ₹ 83</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style102">
-              {/*7 Single Prodect */}
-              <div className="style103">
-                <span className="style104">
-                  <span className="style105">Sale</span>{" "}
-                </span>
-                <div className="style106">
-                  <a className="style107" href="/single-product">
-                    <img
-                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arduino-uno-perspective-transparent.png/1200px-Arduino-uno-perspective-transparent.png"
-                      height={274}
-                      width={270}
-                      alt="Product"
-                      className="style108"
-                    />{" "}
-                    <img
-                      className="style109"
-                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arduino-uno-perspective-transparent.png/1200px-Arduino-uno-perspective-transparent.png"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style110">
-                  <span className="style111">
-                    <a href="#" className="style112">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style113">
-                    <a href="/single-product" className="style114">
-                      Arduino
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style115">
-                    <span className="style116"> ₹ 1800</span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="style117">
-              {/*8 Single Prodect */}
-              <div className="style118">
-                <span className="style119">
-                  <span className="style120">-5%</span>{" "}
-                </span>
-                <div className="style121">
-                  <a className="style122" href="/single-product">
-                    <img
-                      src="https://ci6.googleusercontent.com/proxy/sqt79k5ozNV-G6pdk3wf-CaoJvyz02KdlqEU4c2Jwz2PEOtATZV469HpC2ZzHS4wgxqsEJ4drXyGd9EL5ZgIuYBdnxN9ifM091DeMyPAlQeQx1vtp5aVQES_HZ5ruhN1S0NVeR3U2l0LJNRcwNJbXF3lEFn0W56t=s0-d-e1-ft#https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/2/n/2n3904.jpg"
-                      width={270}
-                      height={274}
-                      alt="Product"
-                      className="style123"
-                    />{" "}
-                    <img
-                      className="style124"
-                      src="https://ci6.googleusercontent.com/proxy/sqt79k5ozNV-G6pdk3wf-CaoJvyz02KdlqEU4c2Jwz2PEOtATZV469HpC2ZzHS4wgxqsEJ4drXyGd9EL5ZgIuYBdnxN9ifM091DeMyPAlQeQx1vtp5aVQES_HZ5ruhN1S0NVeR3U2l0LJNRcwNJbXF3lEFn0W56t=s0-d-e1-ft#https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/2/n/2n3904.jpg"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style125">
-                  <span className="style126">
-                    <a href="#" className="style127">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style128">
-                    <a href="/single-product" className="style129">
-                      Transistor
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style130">
-                    <span className="style131"> ₹ 70</span>{" "}
-                    <span className="style132"> ₹ 55 </span>{" "}
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>{" "}
-        {/* 1st tab end */}
-        {/* 2nd tab start */}
-        <div className="style133">
-          <div className="style134">
-            <div className="style135">
-              {/* 1 Single Prodect */}
-              <div className="style136">
-                <span className="style137">
-                  <span className="style138">New</span>{" "}
-                </span>
-                <div className="style139">
-                  <a className="style140" href="/single-product">
-                    <img
-                      src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309"
-                      height={274}
-                      width={270}
-                      alt="Product"
-                      className="style141"
-                    />{" "}
-                    <img
-                      className="style142"
-                      src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style143">
-                  <span className="style144">
-                    <a href="#" className="style145">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style146">
-                    <a href="/single-product" className="style147">
-                      Modern Smart Phone
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style148">
-                    <span className="style149">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style150">
-                  <button
-                    title="Add To Cart"
-                    className="style151"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style152" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style153">
-              {/* Single Prodect */}
-              <div className="style154">
-                <span className="style155">
-                  <span className="style156">-10%</span>{" "}
-                  <span className="style157">New</span>{" "}
-                </span>
-                <div className="style158">
-                  <a className="style159" href="/single-product">
-                    <img
-                      src="assets/images/product-image/2.webp"
-                      alt="Product"
-                      className="style160"
-                    />{" "}
-                    <img
-                      className="style161"
-                      src="assets/images/product-image/2.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style162">
-                  <span className="style163">
-                    <a href="#" className="style164">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style165">
-                    <a href="/single-product" className="style166">
-                      Bluetooth Headphone
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style167">
-                    <span className="style168">$48.50</span>{" "}
-                    <span className="style169">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style170">
-                  <button
-                    title="Add To Cart"
-                    className="style171"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style172" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style173">
-              {/* Single Prodect */}
-              <div className="style174">
-                <span className="style175">
-                  <span className="style176">Sale</span>{" "}
-                </span>
-                <div className="style177">
-                  <a className="style178" href="/single-product">
-                    <img
-                      src="assets/images/product-image/3.webp"
-                      alt="Product"
-                      className="style179"
-                    />{" "}
-                    <img
-                      className="style180"
-                      src="assets/images/product-image/3.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style181">
-                  <span className="style182">
-                    <a href="#" className="style183">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style184">
-                    <a href="/single-product" className="style185">
-                      Smart Music Box
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style186">
-                    <span className="style187">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style188">
-                  <button
-                    title="Add To Cart"
-                    className="style189"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style190" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style191">
-              {/* Single Prodect */}
-              <div className="style192">
-                <span className="style193">
-                  <span className="style194">New</span>{" "}
-                </span>
-                <div className="style195">
-                  <a className="style196" href="/single-product">
-                    <img
-                      src="assets/images/product-image/4.webp"
-                      alt="Product"
-                      className="style197"
-                    />{" "}
-                    <img
-                      className="style198"
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style199">
-                  <span className="style200">
-                    <a href="#" className="style201">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style202">
-                    <a href="/single-product" className="style203">
-                      Air Pods 25Hjkl Black
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style204">
-                    <span className="style205">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style206">
-                  <button
-                    title="Add To Cart"
-                    className="style207"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style208" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style209">
-              {/* Single Prodect */}
-              <div className="style210">
-                <span className="style211"></span>
-                <div className="style212">
-                  <a className="style213" href="/single-product">
-                    <img
-                      src="assets/images/product-image/5.webp"
-                      alt="Product"
-                      className="style214"
-                    />{" "}
-                    <img
-                      className="style215"
-                      src="assets/images/product-image/5.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style216">
-                  <span className="style217">
-                    <a href="#" className="style218">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style219">
-                    <a href="/single-product" className="style220">
-                      Smart Hand Watch
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style221">
-                    <span className="style222">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style223">
-                  <button
-                    title="Add To Cart"
-                    className="style224"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style225" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style226">
-              {/* Single Prodect */}
-              <div className="style227">
-                <span className="style228">
-                  <span className="style229">-8%</span>{" "}
-                  <span className="style230">Sale</span>{" "}
-                </span>
-                <div className="style231">
-                  <a className="style232" href="/single-product">
-                    <img
-                      src="assets/images/product-image/6.webp"
-                      alt="Product"
-                      className="style233"
-                    />{" "}
-                    <img
-                      className="style234"
-                      src="assets/images/product-image/6.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style235">
-                  <span className="style236">
-                    <a href="#" className="style237">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style238">
-                    <a href="/single-product" className="style239">
-                      Smart Table Camera
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style240">
-                    <span className="style241">$138.50</span>{" "}
-                    <span className="style242">$112.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style243">
-                  <button
-                    title="Add To Cart"
-                    className="style244"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style245" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style246">
-              {/* Single Prodect */}
-              <div className="style247">
-                <span className="style248">
-                  <span className="style249">Sale</span>{" "}
-                </span>
-                <div className="style250">
-                  <a className="style251" href="/single-product">
-                    <img
-                      src="assets/images/product-image/7.webp"
-                      alt="Product"
-                      className="style252"
-                    />{" "}
-                    <img
-                      className="style253"
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style254">
-                  <span className="style255">
-                    <a href="#" className="style256">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style257">
-                    <a href="/single-product" className="style258">
-                      Round Pocket Router
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style259">
-                    <span className="style260">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style261">
-                  <button
-                    title="Add To Cart"
-                    className="style262"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style263" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style264">
-              {/* Single Prodect */}
-              <div className="style265">
-                <span className="style266">
-                  <span className="style267">-5%</span>{" "}
-                </span>
-                <div className="style268">
-                  <a className="style269" href="/single-product">
-                    <img
-                      src="assets/images/product-image/8.webp"
-                      alt="Product"
-                      className="style270"
-                    />{" "}
-                    <img
-                      className="style271"
-                      src="assets/images/product-image/8.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style272">
-                  <span className="style273">
-                    <a href="#" className="style274">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style275">
-                    <a href="/single-product" className="style276">
-                      Power Bank 10000Mhp
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style277">
-                    <span className="style278">$260.00</span>{" "}
-                    <span className="style279">$238.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style280">
-                  <button
-                    title="Add To Cart"
-                    className="style281"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style282" />
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>{" "}
-        {/* 2nd tab end */}
-        {/* 3rd tab start */}
-        <div className="style283">
-          <div className="style284">
-            <div className="style285">
-              {/* Single Prodect */}
-              <div className="style286">
-                <span className="style287">
-                  <span className="style288">New</span>{" "}
-                </span>
-                <div className="style289">
-                  <a className="style290" href="/single-product">
-                    <img
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                      className="style291"
-                    />{" "}
-                    <img
-                      className="style292"
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style293">
-                  <span className="style294">
-                    <a href="#" className="style295">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style296">
-                    <a href="/single-product" className="style297">
-                      Modern Smart Phone
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style298">
-                    <span className="style299">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style300">
-                  <button
-                    title="Add To Cart"
-                    className="style301"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style302" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style303">
-              {/* Single Prodect */}
-              <div className="style304">
-                <span className="style305">
-                  <span className="style306">-10%</span>{" "}
-                  <span className="style307">New</span>{" "}
-                </span>
-                <div className="style308">
-                  <a className="style309" href="/single-product">
-                    <img
-                      src="assets/images/product-image/2.webp"
-                      alt="Product"
-                      className="style310"
-                    />{" "}
-                    <img
-                      className="style311"
-                      src="assets/images/product-image/2.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style312">
-                  <span className="style313">
-                    <a href="#" className="style314">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style315">
-                    <a href="/single-product" className="style316">
-                      Bluetooth Headphone
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style317">
-                    <span className="style318">$48.50</span>{" "}
-                    <span className="style319">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style320">
-                  <button
-                    title="Add To Cart"
-                    className="style321"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style322" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style323">
-              {/* Single Prodect */}
-              <div className="style324">
-                <span className="style325">
-                  <span className="style326">Sale</span>{" "}
-                </span>
-                <div className="style327">
-                  <a className="style328" href="/single-product">
-                    <img
-                      src="assets/images/product-image/3.webp"
-                      alt="Product"
-                      className="style329"
-                    />{" "}
-                    <img
-                      className="style330"
-                      src="assets/images/product-image/3.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style331">
-                  <span className="style332">
-                    <a href="#" className="style333">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style334">
-                    <a href="/single-product" className="style335">
-                      Smart Music Box
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style336">
-                    <span className="style337">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style338">
-                  <button
-                    title="Add To Cart"
-                    className="style339"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style340" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style341">
-              {/* Single Prodect */}
-              <div className="style342">
-                <span className="style343">
-                  <span className="style344">New</span>{" "}
-                </span>
-                <div className="style345">
-                  <a className="style346" href="/single-product">
-                    <img
-                      src="assets/images/product-image/4.webp"
-                      alt="Product"
-                      className="style347"
-                    />{" "}
-                    <img
-                      className="style348"
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style349">
-                  <span className="style350">
-                    <a href="#" className="style351">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style352">
-                    <a href="/single-product" className="style353">
-                      Air Pods 25Hjkl Black
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style354">
-                    <span className="style355">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style356">
-                  <button
-                    title="Add To Cart"
-                    className="style357"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style358" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style359">
-              {/* Single Prodect */}
-              <div className="style360">
-                <span className="style361"></span>
-                <div className="style362">
-                  <a className="style363" href="/single-product">
-                    <img
-                      src="assets/images/product-image/5.webp"
-                      alt="Product"
-                      className="style364"
-                    />{" "}
-                    <img
-                      className="style365"
-                      src="assets/images/product-image/5.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style366">
-                  <span className="style367">
-                    <a href="#" className="style368">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style369">
-                    <a href="/single-product" className="style370">
-                      Smart Hand Watch
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style371">
-                    <span className="style372">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style373">
-                  <button
-                    title="Add To Cart"
-                    className="style374"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style375" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style376">
-              {/* Single Prodect */}
-              <div className="style377">
-                <span className="style378">
-                  <span className="style379">-8%</span>{" "}
-                  <span className="style380">Sale</span>{" "}
-                </span>
-                <div className="style381">
-                  <a className="style382" href="/single-product">
-                    <img
-                      src="assets/images/product-image/6.webp"
-                      alt="Product"
-                      className="style383"
-                    />{" "}
-                    <img
-                      className="style384"
-                      src="assets/images/product-image/6.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style385">
-                  <span className="style386">
-                    <a href="#" className="style387">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style388">
-                    <a href="/single-product" className="style389">
-                      Smart Table Camera
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style390">
-                    <span className="style391">$138.50</span>{" "}
-                    <span className="style392">$112.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style393">
-                  <button
-                    title="Add To Cart"
-                    className="style394"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style395" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style396">
-              {/* Single Prodect */}
-              <div className="style397">
-                <span className="style398">
-                  <span className="style399">Sale</span>{" "}
-                </span>
-                <div className="style400">
-                  <a className="style401" href="/single-product">
-                    <img
-                      src="assets/images/product-image/7.webp"
-                      alt="Product"
-                      className="style402"
-                    />{" "}
-                    <img
-                      className="style403"
-                      src="assets/images/product-image/1.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style404">
-                  <span className="style405">
-                    <a href="#" className="style406">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style407">
-                    <a href="/single-product" className="style408">
-                      Round Pocket Router
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style409">
-                    <span className="style410">$38.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style411">
-                  <button
-                    title="Add To Cart"
-                    className="style412"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style413" />
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div className="style414">
-              {/* Single Prodect */}
-              <div className="style415">
-                <span className="style416">
-                  <span className="style417">-5%</span>{" "}
-                </span>
-                <div className="style418">
-                  <a className="style419" href="/single-product">
-                    <img
-                      src="assets/images/product-image/8.webp"
-                      alt="Product"
-                      className="style420"
-                    />{" "}
-                    <img
-                      className="style421"
-                      src="assets/images/product-image/8.webp"
-                      alt="Product"
-                    />{" "}
-                  </a>
-                </div>
-                <div className="style422">
-                  <span className="style423">
-                    <a href="#" className="style424">
-                      Accessories
-                    </a>
-                  </span>
-                  <h5 className="style425">
-                    <a href="/single-product" className="style426">
-                      Power Bank 10000Mhp
-                    </a>{" "}
-                  </h5>{" "}
-                  <span className="style427">
-                    <span className="style428">$260.00</span>{" "}
-                    <span className="style429">$238.50</span>{" "}
-                  </span>
-                </div>
-                <div className="style430">
-                  <button
-                    title="Add To Cart"
-                    className="style431"
-                    data-bs-toggle="modal"
-                    data-bs-target="#exampleModal-Cart"
-                  >
-                    <i className="style432" />
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>{" "}
-        {/* 3rd tab end */}
-      </div>
-    </div>
-  </div>
 </div>
+<div style={{paddingBottom: '100px', paddingTop: '100px', boxSizing: 'border-box'}}>
+    <div style={{maxWidth: '1200px', width: '100%', paddingRight: '15px', paddingLeft: '15px', marginRight: 'auto', marginLeft: 'auto', boxSizing: 'border-box',   bsGutterX: '1.5rem',  bsGutterY: 0}}>
+        <div style={{  bsGutterX: '30px', boxSizing: 'border-box',  bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+            <div style={{boxSizing: 'border-box', flex: '0 0 auto', width: '100%', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                <div style={{lineHeight: '16px', marginBottom: '50px', boxSizing: 'border-box', textAlign: 'center'}}>
+                    <h2 style={{fontSize: '48px', fontFamily: 'Poppins, sans-serif', fontWeight: 600, display: 'inline-block', color: 'rgb(0, 0, 0)', margin: '0px 0px 28px', lineHeight: '34px', boxSizing: 'border-box', marginTop: '0px', marginBottom: '28px'}}>Featured Offers</h2>
+                </div>
+            </div>
+        </div>
+        <div style={{  bsGutterX: '30px', boxSizing: 'border-box',  bsGutterY: 0, display: 'flex', flexWrap: 'wrap', marginTop: '0px', marginRight: '-15px', marginLeft: '-15px'}}>
+            <div style={{flex: '0 0 auto', width: '50%', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                <div style={{position: 'relative', border: '1.6px solid rgb(226, 226, 226)', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', borderRadius: '15px', padding: '5px', margin: '-5px', boxSizing: 'border-box'}}>
+                    <div style={{boxSizing: 'border-box'}}>
+                        <img src="https://quartzcomponents.com/cdn/shop/products/PIC18F4520_270x270.jpg?v=1642875772" height="620" width="" alt="" style={{maxWidth: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} />
+                    </div>
+                    <div style={{position: 'absolute', top: '50px', textAlign: 'center', left: '288.4px', transform: 'matrix(1, 0, 0, 1, -288.4, 0)', width: '100%', boxSizing: 'border-box'}}>
+                        <h4 style={{fontSize: '30px', fontWeight: 600, margin: '0px 0px 20px', fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', marginTop: '0px', marginBottom: '20px', lineHeight: '36px'}}><a href="/single-product" style={{color: 'rgb(0, 0, 0)', transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(0, 0, 0)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>MicroController</a></h4> <span style={{fontSize: '30px', fontFamily: 'Poppins, sans-serif', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                            <span style={{marginRight: '20px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}><del style={{boxSizing: 'border-box'}}> ₹ 850</del></span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 590</span> </span>
+                    </div>
+                    <div style={{position: 'absolute', bottom: '60px', textAlign: 'center', left: '288.4px', transform: 'matrix(1, 0, 0, 1, -288.4, 0)', width: '100%', boxSizing: 'border-box'}}>
+                        <div style={{boxSizing: 'border-box'}}>
+                        </div> <a href="single-product-variable.html" style={{width: '200px', height: '54px', backgroundColor: 'rgb(38, 107, 249)', borderColor: 'rgb(38, 107, 249)', borderWidth: '1.6px', borderStyle: 'solid', borderRadius: '18px', padding: '0px', display: 'flex', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', border: '1.6px solid rgb(38, 107, 249)', color: 'rgb(58, 58, 58)', fontSize: '18px', fontWeight: 600, lineHeight: '18px', transition: 'all 0.3s ease 0s', outline: 'rgb(58, 58, 58) none 0px', boxShadow: 'none', textDecoration: 'none solid rgb(58, 58, 58)', boxSizing: 'border-box', margin: 'auto !important', textAlign: 'center', verticalAlign: 'middle', cursor: 'pointer', userSelect: 'none', bsBtnColor: '#fff', bsBtnBg: '#0d6efd', bsBtnBorderColor: '#0d6efd', bsBtnHoverColor: '#fff', bsBtnHoverBg: '#0b5ed7', bsBtnHoverBorderColor: '#0a58ca', bsBtnFocusShadowRgb: '49,132,253', bsBtnActiveColor: '#fff', bsBtnActiveBg: '#0a58ca', bsBtnActiveBorderColor: '#0a53be', bsBtnActiveShadow: 'inset 0 3px 5px rgba(0, 0, 0, 0.125)', bsBtnDisabledColor: '#fff', bsBtnDisabledBg: '#0d6efd', bsBtnDisabledBorderColor: '#0d6efd', bsBtnPaddingX: '0.75rem', bsBtnPaddingY: '0.375rem', bsBtnFontFamily: '', bsBtnFontSize: '1rem', bsBtnFontWeight: 400, bsBtnLineHeight: '1.5', bsBtnBorderWidth: '1px', bsBtnBorderRadius: '0.375rem', bsBtnBoxShadow: 'inset 0 1px 0 rgba(255, 255, 255, 0.15),0 1px 1px rgba(0, 0, 0, 0.075)', bsBtnDisabledOpacity: '0.65', bsBtnFocusBoxShadow: '0 0 0 0.25rem rgba(49,132,253, .5)', fontFamily: 'Poppins, sans-serif'}}> Shop
+                            Now </a>
+                    </div>
+                </div>
+            </div>
+            <div style={{flex: '0 0 auto', width: '50%', boxSizing: 'border-box', flexShrink: 0, maxWidth: '100%', paddingRight: '15px', paddingLeft: '15px', marginTop: '0px'}}>
+                <div style={{display: 'flex', border: '1.6px solid rgb(226, 226, 226)', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', borderRadius: '15px', padding: '5px', margin: '-5px', boxSizing: 'border-box'}}>
+                    <div style={{width: '270px', position: 'relative', boxSizing: 'border-box'}}>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arduino-uno-perspective-transparent.png/1200px-Arduino-uno-perspective-transparent.png" width="270" alt="" style={{maxWidth: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{position: 'absolute', top: '15px', right: '15px', width: '40px', height: '40px', display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '24px', background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', color: 'rgb(255, 255, 255)', borderRadius: '5px', fontWeight: 600, transform: 'matrix(0, 0, 0, 0, 0, 0)', transition: 'all 0.3s ease-in-out 0s', textDecoration: 'none solid rgb(255, 255, 255)', backgroundColor: 'rgb(38, 107, 249)', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                    </div>
+                    <div style={{width: 'calc(100% - 270px)', paddingLeft: '30px', display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', boxSizing: 'border-box'}}>
+                        <div style={{display: 'flex', backgroundColor: 'rgb(38, 107, 249)', color: 'rgb(255, 255, 255)', width: '174px', height: '30px', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', borderRadius: '0px 20px 20px 0px', fontWeight: 600, boxSizing: 'border-box'}}>
+                            <span style={{boxSizing: 'border-box'}}>End In:</span>
+                            <div data-countdown="2023/10/10" style={{boxSizing: 'border-box'}}><span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}>0</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Hrs</p>
+                                </span> <span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}>00</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Min</p>
+                                </span> <span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}> 00</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Sec</p>
+                                </span></div>
+                        </div>
+                        <div style={{padding: '20px 0px', position: 'relative', boxSizing: 'border-box'}}>
+                            <h5 style={{fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', fontSize: '18.75px', marginTop: '0px', marginBottom: '7.5px', fontWeight: 500, lineHeight: '22.5px'}}><a href="/single-product" style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 600, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(0, 0, 0)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Arduino</a></h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}> ₹ 2400</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 1800</span> </span>
+                        </div>
+                        <div style={{marginTop: '30px', boxSizing: 'border-box'}}>
+                            <ul style={{padding: '0px', margin: '0px', listStyle: 'outside none none', boxSizing: 'border-box', marginTop: '0px', marginBottom: '0px', paddingLeft: '0px'}}>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Predecessor : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>None.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Support Type : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>Neutral.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Cushioning : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>High Energizing.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Total Weight : <span style={{fontWeight: 400, boxSizing: 'border-box'}}> 300gm</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div style={{marginTop: '30px', display: 'flex', border: '1.6px solid rgb(226, 226, 226)', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', borderRadius: '15px', padding: '5px', boxSizing: 'border-box'}}>
+                    <div style={{width: '270px', position: 'relative', boxSizing: 'border-box'}}>
+                        <img src="https://www.mouser.in/images/marketingid/2018/img/135124345.png?v=070223.0309" alt="" style={{maxWidth: '100%', boxSizing: 'border-box', verticalAlign: 'middle'}} /> <button title="Add To Cart" databs-toggle="modal" databs-target="#exampleModal-Cart" style={{position: 'absolute', top: '15px', right: '15px', width: '40px', height: '40px', display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '24px', background: 'rgb(38, 107, 249) none repeat scroll 0% 0% / auto padding-box border-box', color: 'rgb(255, 255, 255)', borderRadius: '5px', fontWeight: 600, transform: 'matrix(0, 0, 0, 0, 0, 0)', transition: 'all 0.3s ease-in-out 0s', textDecoration: 'none solid rgb(255, 255, 255)', backgroundColor: 'rgb(38, 107, 249)', border: '0px none rgb(255, 255, 255)', boxSizing: 'border-box', cursor: 'pointer', appearance: 'button', textTransform: 'none', margin: '0px', fontFamily: 'Poppins, sans-serif', lineHeight: '32px'}}><i style={{boxSizing: 'border-box', display: 'block', fontFamily: 'Pe-icon-7-stroke', speak: 'none', fontStyle: 'normal', fontWeight: 400, fontVariant: 'normal', textTransform: 'none', lineHeight: '24px', WebkitFontSmoothing: 'antialiased'}}></i></button>
+                    </div>
+                    <div style={{width: 'calc(100% - 270px)', paddingLeft: '30px', display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', boxSizing: 'border-box'}}>
+                        <div style={{display: 'flex', backgroundColor: 'rgb(38, 107, 249)', color: 'rgb(255, 255, 255)', width: '174px', height: '30px', WebkitBoxOrient: 'horizontal', WebkitBoxDirection: 'normal', flexDirection: 'row', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', borderRadius: '0px 20px 20px 0px', fontWeight: 600, boxSizing: 'border-box'}}>
+                            <span style={{boxSizing: 'border-box'}}>End In:</span>
+                            <div data-countdown="2023/09/15" style={{boxSizing: 'border-box'}}><span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}>0</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Hrs</p>
+                                </span> <span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}>00</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Min</p>
+                                </span> <span style={{display: 'inline-block', boxSizing: 'border-box'}}><span style={{display: 'flex', WebkitBoxOrient: 'vertical', WebkitBoxDirection: 'normal', flexDirection: 'column', WebkitBoxPack: 'center', justifyContent: 'center', WebkitBoxAlign: 'center', alignItems: 'center', fontSize: '16px', color: 'rgb(255, 255, 255)', fontWeight: 600, position: 'relative', margin: '0px 5px', width: '20px', height: '30px', boxSizing: 'border-box'}}> 00</span>
+                                    <p style={{display: 'none', marginBottom: '0px', margin: '0px', boxSizing: 'border-box', marginTop: '0px'}}>Sec</p>
+                                </span></div>
+                        </div>
+                        <div style={{padding: '20px 0px', position: 'relative', boxSizing: 'border-box'}}>
+                            <h5 style={{fontFamily: 'Poppins, sans-serif', color: 'rgb(0, 0, 0)', boxSizing: 'border-box', fontSize: '18.75px', marginTop: '0px', marginBottom: '7.5px', fontWeight: 500, lineHeight: '22.5px'}}><a href="PCAM.html" style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 600, transition: 'all 0.3s ease 0s', textDecoration: 'none solid rgb(0, 0, 0)', backgroundColor: 'rgba(0, 0, 0, 0)', border: '0px none rgb(0, 0, 0)', boxSizing: 'border-box'}}>Digilent PCAM</a></h5> <span style={{fontSize: '18px', fontFamily: 'Poppins, sans-serif', fontWeight: 500, color: 'rgb(102, 102, 102)', boxSizing: 'border-box'}}>
+                                <span style={{marginRight: '15px', fontWeight: 300, textDecoration: 'line-through solid rgb(102, 102, 102)', position: 'relative', boxSizing: 'border-box'}}> ₹ 300</span> <span style={{fontWeight: 500, boxSizing: 'border-box'}}> ₹ 250</span> </span>
+                        </div>
+                        <div style={{marginTop: '30px', boxSizing: 'border-box'}}>
+                            <ul style={{padding: '0px', margin: '0px', listStyle: 'outside none none', boxSizing: 'border-box', marginTop: '0px', marginBottom: '0px', paddingLeft: '0px'}}>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Predecessor : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>None.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Support Type : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>Neutral.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Cushioning : <span style={{fontWeight: 400, boxSizing: 'border-box'}}>High Energizing.</span></li>
+                                <li style={{fontSize: '16px', color: 'rgb(0, 0, 0)', fontWeight: 500, position: 'relative', paddingLeft: '15px', listStyle: 'outside none none', boxSizing: 'border-box'}}>Total Weight : <span style={{fontWeight: 400, boxSizing: 'border-box'}}> 300gm</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
     </>
     );

@@ -12,7 +12,7 @@ function App() {
     <><div>
 
       <Header/>
-      <SellLast/>
+      <HomePage/>
       <Footer/>
       </div>
     </>
